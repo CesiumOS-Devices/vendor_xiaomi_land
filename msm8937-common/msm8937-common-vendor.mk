@@ -60,8 +60,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8937-common/proprietary/lib/libwfduibcsinkinterface.so:system/lib/libwfduibcsinkinterface.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libwfduibcsrc.so:system/lib/libwfduibcsrc.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libwfduibcsrcinterface.so:system/lib/libwfduibcsrcinterface.so \
-    vendor/xiaomi/msm8937-common/proprietary/lib/libwfdnative.so:system/lib/libwfdnative.so \
-    vendor/xiaomi/msm8937-common/proprietary/lib/libwfdclient.so:system/lib/libwfdclient.so \
     vendor/xiaomi/msm8937-common/proprietary/lib64/com.qualcomm.qti.dpm.api@1.0.so:system/lib64/com.qualcomm.qti.dpm.api@1.0.so \
     vendor/xiaomi/msm8937-common/proprietary/vendor/lib64/hw/consumerir.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.default.so \
     vendor/xiaomi/msm8937-common/proprietary/lib64/lib-imscamera.so:system/lib64/lib-imscamera.so \
